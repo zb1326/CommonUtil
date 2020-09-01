@@ -52,7 +52,7 @@ public class FileUtil {
 //        } catch (IOException e) {
 //            e.printStackTrace();
 //        }
-        split("D:\\ride\\testcase_clear\\FlumeData.1590977699683");
+        split("D:\\ride\\testcase_clear\\FlumeData.1596775612148");
     }
 
 
